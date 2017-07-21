@@ -2,7 +2,7 @@
 [shoppableVideo_Original](https://raw.githubusercontent.com/Kyle30/shoppableVideo_Original/master/plugin.js "shoppableVideo_Original")  
 
 remove top left  
-.js  
+[Original.js](https://raw.githubusercontent.com/IXlinfairuser/Shoppable-Sample/master/ShoppingVideo_Original/Original.js)  
 ```
 // basic metadata  
 //	  var _elNow = $(_player.el()).append('<div class="now-playing">').find('.now-playing'); 
