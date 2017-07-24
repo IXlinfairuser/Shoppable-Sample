@@ -8,7 +8,7 @@ videojs.plugin('shoppable',function(){
 		newCss.href = "https://fonts.googleapis.com/icon?family=Material+Icons";
 		document.getElementsByTagName('head')[0].appendChild(newCss);
 		main();
-		_player.play();
+// 		_player.play();
 	});
 function main(){ 
 	//reset 
