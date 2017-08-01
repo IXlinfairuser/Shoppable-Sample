@@ -156,6 +156,9 @@
 .material-icons {
     padding-top: 5px;
 }
+.modal-backdrop {
+    background-color: none !important;
+}
 
 
 
