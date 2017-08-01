@@ -149,5 +149,5 @@
 }
 /*modal background-color cancel  */
 .modal-backdrop {
-    background-color:none;
+    background-color:none !important;
 }
