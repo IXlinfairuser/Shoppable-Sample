@@ -132,11 +132,11 @@
     text-decoration: none;
 }
 
-@media screen and (max-width: 719px) {
+/* @media screen and (max-width: 719px) {
     .product-sheet,.product-arrow,.slider-tab ,.now-playing,.newButton.vjs-control{
          display: none;
     }
-}
+} */
 /*
 @media screen and (min-width: 1064px) {
     .product-thumbs {
