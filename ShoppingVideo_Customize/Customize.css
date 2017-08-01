@@ -3,7 +3,7 @@
     margin-top: 4px;
 }
 .newButton.vjs-control.shift-left{
-    margin-right: 115px;
+    padding-right: 115px;
 }
 .newButton.vjs-control:hover{
     text-shadow: 0px 0px 10px #fff;
@@ -151,15 +151,12 @@
        height: 430px;
     }
 }*/
-
-
-.material-icons {
-    padding-top: 5px;
+.buy_btn {
+    cursor:pointer;
 }
-.modal-backdrop {
-    background-color: none !important;
+.close {
+    cursor:pointer;
 }
-
 
 
 
