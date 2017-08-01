@@ -152,8 +152,8 @@
        height: 430px;
     }
 }*/
-.vjs-control-bar {
-    padding-right: 115px;
+.video-js.vjs-has-started .vjs-control-bar {
+    padding-right:115px;
 }
 
 
