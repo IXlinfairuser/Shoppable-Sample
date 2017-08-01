@@ -16,13 +16,15 @@ change
 .material-icons {
     margin-top: 5px;
 }
-```  
+```  
+
 調整product-thumbs的大小  
 ```  
 .product-thumbs{ 
     height: 350px;
 }
-```
+```  
+
 把@media 拿掉 全螢幕有問題  待解決  
 
 [Customize.js](https://raw.githubusercontent.com/IXlinfairuser/Shoppable-Sample/master/ShoppingVideo_Customize/Customize.js)  
