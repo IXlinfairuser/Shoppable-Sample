@@ -127,7 +127,7 @@ function createModalEl(){
 	$(".modal.fade").append("<div class='modal-dialog'</div>");
 	$(".modal-dialog").append("<div class='modal-content'></div>");
 	$(".modal-content").append("<div class='modal-header'></div>");
-	$(".modal-header").append("<button type='button' class='close' data-dismiss='modal' aria-label='close'>"
+	$(".modal-header").append("<button type='button' class='close' data-dismiss='modal' aria-label='close' style='cursor:pointer;'>"
 	+"<span aria-hidden='true'>x</span></button>");
 	$(".modal-header").append("<h4 class='modal-title'>Purchase Details</h4>");
 	$(".modal-content").append("<div class='modal-body'></div>");
@@ -138,7 +138,7 @@ function createModalEl(){
 	+"<strong id='product-modal-name'></strong>"
 	+"<p id='product-modal-desc'></p>"
 	+"<p id='product-modal-price' class='col-xs-6' style='font-size:22px;'></p>"
-	+"<a id='modal-button-buy-link' href='' target='_blank' style='text-decoration:none;'><button class='buy_btn'>Buy</button></a>");
+	+"<a id='modal-button-buy-link' href='' target='_blank' style='text-decoration:none;'><button class='buy_btn' style='cursor:pointer;'>Buy</button></a>");
 		
 }
 function createOverlayEl(){
