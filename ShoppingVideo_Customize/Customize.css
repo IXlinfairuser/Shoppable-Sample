@@ -28,7 +28,7 @@
     width: 95px;
     height: 331px;
     margin-left: -105px;
-    margin-top: 37px;
+/*     margin-top: 37px; */
     padding-left: 115px;
     overflow: hidden;
 }
@@ -137,12 +137,17 @@
 }
 @media (min-width:940px) and (max-width:1063px) {
     .product-thumbs {
-        height: 430px;
+/*         height: 430px; */
+        height:350px;
     }
 }
 @media (min-width:1064px) {
     .product-thumbs {
-        height: 470px;
+/*         height: 470px; */
+        height:760px;
     }
 }
-
+/*modal background-color cancel  */
+.modal-backdrop {
+    background-color:none;
+}
