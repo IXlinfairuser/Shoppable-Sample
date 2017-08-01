@@ -132,13 +132,19 @@
 }
 @media (max-width:719px) {
     .product-sheet,.product-arrow,.slider-tab ,.now-playing,.newButton.vjs-control{
-         display: none;
+/*          display: none; */
+        display:block;
+    }
+    .video-js.vjs-has-started .vjs-control-bar {
+      padding-right:115px;
+    }
+    .product-thumbs {
+         height:350px;
     }
 }
 @media (min-width:940px) and (max-width:1063px) {
     .product-thumbs {
-/*         height: 430px; */
-        height:350px;
+        height: 430px;
     }
 }
 @media (min-width:1064px) {
