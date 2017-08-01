@@ -9,8 +9,8 @@ product file into textTrack
 [LV.vtt](https://raw.githubusercontent.com/IXlinfairuser/Shoppable-Sample/master/ShoppingVideo_Customize/LV.vtt)  
   
   
-change  
-[Customize.css](https://raw.githubusercontent.com/IXlinfairuser/Shoppable-Sample/master/ShoppingVideo_Customize/Customize.css)  
+### change ###  
+[Customize.css](https://raw.githubusercontent.com/IXlinfairuser/Shoppable-Sample/master/ShoppingVideo_Customize/Customize.css)    
 主要調整icon位置 
 ```
 .material-icons {
@@ -33,7 +33,8 @@ Demo是三個Video放一頁所以修正control bar抓的位置把icon掛上去
 controlBar[2].appendChild(newElement);
 ```  
 index改成2  
-
+      
+[bootstrapMin.css](https://raw.githubusercontent.com/IXlinfairuser/Shoppable-Sample/master/ShoppingVideo_Customize/bootstrapMin.css)  
 由於modal會使全部變黑   修正bootstrap裡的css  未解決  
 另掛css檔  
 ```  
@@ -41,6 +42,3 @@ index改成2
      background-color: none;
 }
 ```  
-[bootstrapMin.css](https://raw.githubusercontent.com/IXlinfairuser/Shoppable-Sample/master/ShoppingVideo_Customize/bootstrapMin.css)
-
-
