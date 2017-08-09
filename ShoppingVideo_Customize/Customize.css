@@ -93,7 +93,7 @@
 }
 .product-arrow.down{
     bottom: 5px;
-/*     z-index:9; */
+    z-index:99;
 }
 .product-arrow.up.hide, .product-arrow-down.hide{
     display: none;
