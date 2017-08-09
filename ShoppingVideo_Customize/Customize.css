@@ -26,7 +26,7 @@
 }
 .product-thumbs{
     width: 95px;
-    height: 350px;
+    height: 90%;/* 350px 331*/
     margin-left: -105px;
     margin-top: 37px;/**/
     padding-left: 115px;
