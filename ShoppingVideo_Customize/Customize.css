@@ -132,7 +132,8 @@
 }
 @media screen and (max-width: 719px) {
     .product-sheet,.product-arrow,.slider-tab ,.now-playing,.newButton.vjs-control{
-         display: none;
+/*          display: none; */
+        display:block;
     }
 }
 /*
