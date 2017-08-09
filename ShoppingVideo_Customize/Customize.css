@@ -93,7 +93,7 @@
 }
 .product-arrow.down{
     bottom: 5px;
-    z-index:9;
+/*     z-index:9; */
 }
 .product-arrow.up.hide, .product-arrow-down.hide{
     display: none;
@@ -133,8 +133,8 @@
 }
 @media screen and (max-width: 719px) {
     .product-sheet,.product-arrow,.slider-tab ,.now-playing,.newButton.vjs-control{
-/*          display: none; */
-        display:block;
+         display: none;
+/*         display:block; */
     }
 }
 /*
